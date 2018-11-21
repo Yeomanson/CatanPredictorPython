@@ -47,10 +47,30 @@
     <Folder Include="CatanWebApp\" />
     <Folder Include="Catan\" />
     <Folder Include="Catan\migrations\" />
+    <Folder Include="Catan\static\" />
+    <Folder Include="Catan\static\css\" />
+    <Folder Include="Catan\static\fonts\" />
+    <Folder Include="Catan\static\js\" />
     <Folder Include="Catan\templates\" />
     <Folder Include="Catan\templates\Catan\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Catan\static\css\bootstrap-theme.css" />
+    <Content Include="Catan\static\css\bootstrap-theme.css.map" />
+    <Content Include="Catan\static\css\bootstrap-theme.min.css" />
+    <Content Include="Catan\static\css\bootstrap-theme.min.css.map" />
+    <Content Include="Catan\static\css\bootstrap.css" />
+    <Content Include="Catan\static\css\bootstrap.css.map" />
+    <Content Include="Catan\static\css\bootstrap.min.css" />
+    <Content Include="Catan\static\css\bootstrap.min.css.map" />
+    <Content Include="Catan\static\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Catan\static\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Catan\static\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Catan\static\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Catan\static\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Catan\static\js\bootstrap.js" />
+    <Content Include="Catan\static\js\bootstrap.min.js" />
+    <Content Include="Catan\static\js\npm.js" />
     <Content Include="Catan\templates\Catan\home.html" />
     <Content Include="Catan\templates\Catan\header.html" />
     <Content Include="requirements.txt" />
